@@ -4,7 +4,7 @@ AgriConnect Hub is a multilingual, mobile-first digital ecosystem designed for f
 
 The project was designed in Figma and implemented as a Flutter prototype, with future-ready architecture for backend and cloud deployment.
 
-🔗 Figma Prototype: AgriConnect Hub – UI/UX
+🔗 Figma Prototype: https://www.figma.com/proto/F0nLiF9vSftGb6QK9fs19x/AgriConnect-Hub---UI-UX?node-id=9-58&starting-point-node-id=9%3A58
 
 
 ### Abstract
@@ -54,7 +54,7 @@ Deployment (Planned): Docker + AWS/GCP
 Design: Figma
 
 
-###Features
+### Features
 
 Login & Authentication (with skip option + multilingual support)
 
@@ -98,10 +98,9 @@ Community Chat
 
 Profile & Settings
 
-👉 Explore all screens here: AgriConnect Hub – Prototype
 
 
-###Deployment
+### Deployment
 
 Current: Tested locally on iOS Simulator (iPhone 16 Plus) using Flutter SDK on macOS.
 
