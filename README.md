@@ -116,7 +116,7 @@ Hosting on AWS/GCP
 App Store & Play Store release with push notifications
 
 
-###Future Improvements
+### Future Improvements
 
 Secure authentication (OTP/Google login)
 
